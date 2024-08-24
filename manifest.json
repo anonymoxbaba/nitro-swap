@@ -1,0 +1,17 @@
+{
+    "short_name": "Router's Nitro App",
+    "name": "Nitro Cross Chain Swaps",
+    "description": "Cross Chain Swaps with Nitro",
+    "icons": [
+      {
+        "src": "logo.svg",
+        "sizes": "any",
+        "type": "image/svg+xml"
+      }
+    ],
+    "start_url": "localhost",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
